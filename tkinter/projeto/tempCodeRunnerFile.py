@@ -1,0 +1,1 @@
+f"A cotação da {moeda} no dia {data_cotacao} foi de: R${valor_moeda}"
